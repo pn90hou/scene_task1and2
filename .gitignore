@@ -1,0 +1,12 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+.vs/
+Temp/
+Library/
+*.sln
+*.csproj
+build/
+obj/
+Packages/
